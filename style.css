@@ -1,0 +1,14 @@
+.circle {
+  background-color: red;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  position: absolute;
+}
+
+.text {
+  color: black;
+  font-size: 60px;
+  border-radius: 50%;
+  position: absolute;
+}
